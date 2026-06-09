@@ -1,0 +1,40 @@
+# Datasets and images
+CW/
+UW/
+SDNET2018/
+dataset/
+dataset_rotulado/
+dataset_rotulado_samples/
+dataset_v2/
+sdnet_full_input/
+sdnet_rotulado_sample/
+sdnet_sample/
+test_dataset/
+test_fldr/
+test_input/
+
+# Outputs
+output/
+resultados_finais/
+test_output/
+samples/
+tcc_figuras_pipeline/
+verificacao/
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+
+# Others
+.claude/
+desktop.ini
+*.txt
+!requirements.txt
+*.pth
